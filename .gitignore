@@ -1,0 +1,10 @@
+/result/
+/data/*
+/model/
+/log/
+
+/confidence*.json
+
+__pycache__/
+
+/.vscode/
